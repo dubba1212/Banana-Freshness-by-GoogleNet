@@ -15,7 +15,7 @@ The custom banana freshness model is concatenated with the GoogLeNet model using
 
 To run the project, double-click on the `run.bat` file. This will launch the following interface:
 
-![Project Interface](https://drive.google.com/file/d/1oEK7hY8Ec_h10iW6gFbvAPDLUuf-SGpN/view?usp=drive_link)
+![Project Interface](Dataset\Picture4.png)
 
 *Above: Initial project interface.*
 
@@ -32,7 +32,7 @@ With the dataset loaded, click on `Generate & Load GoogLeNet Model` to build the
 
 The GoogLeNet layers can be viewed in the console:
 
-![GoogLeNet Layers](https://drive.google.com/file/d/1dON8nBmkht_6vmGnlUtl69mDb0C42BOf/view?usp=drive_link)
+![GoogLeNet Layers](Dataset\Picture8.png)
 
 *Above: Console output showing GoogLeNet layers.*
 
