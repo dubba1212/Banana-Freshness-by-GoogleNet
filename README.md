@@ -15,10 +15,6 @@ The custom banana freshness model is concatenated with the GoogLeNet model using
 
 To run the project, double-click on the `run.bat` file. This will launch the following interface:
 
-![Project Interface](Dataset\Picture4.png)
-
-*Above: Initial project interface.*
-
 ### Uploading the Dataset
 
 Click on the `Upload Banana Dataset` button to upload the dataset and proceed to the following interface:
@@ -30,11 +26,7 @@ After selecting and uploading the `Dataset` folder, click on `Select Folder` to 
 With the dataset loaded, click on `Generate & Load GoogLeNet Model` to build the model based on the loaded dataset and calculate its accuracy and loss.
 - Model generated with an accuracy of 82%.*
 
-The GoogLeNet layers can be viewed in the console:
-
-![GoogLeNet Layers](Dataset\Picture8.png)
-
-*Above: Console output showing GoogLeNet layers.*
+- The GoogLeNet layers can be viewed in the console
 
 ### Accuracy & Loss Graph
 
